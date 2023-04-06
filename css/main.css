@@ -95,7 +95,7 @@ Border color for elements in color section: rgba(255, 255, 255, 0.15)
 ** General Styles for HTML tags
 */
 :root {
-  --theme-clr: #8c0034;
+  --theme-clr: #f2c014;
 }
 
 html {
